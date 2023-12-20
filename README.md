@@ -1,2 +1,2 @@
 # Zgaduj-zgadula-liczb
-Odgadnij liczbę wymyśloną przez komputer
+Guess the number invented by the computer
